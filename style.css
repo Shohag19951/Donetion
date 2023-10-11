@@ -1,0 +1,247 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open san', sans-serif;
+}
+.banner{
+    padding: 100px 250px;
+    background-image: url(./images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.bn-tit{
+    padding: 10px;
+    color: white;
+    font-weight: 900;
+    font-size: 40px;
+    
+}
+.bn-dis{
+    padding: 10px;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+}
+.bt-pri{
+    padding: 20px;
+    background-color: rgb(239, 82, 113);
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 5px;
+    border: 0cm;
+}
+.dt-tit{
+    padding-top: 60px;
+    color: black;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+}
+.dt-dis{
+    padding: 10px 180x;
+    color: rgb(44, 42, 42);
+    font-weight:500px ;
+    font-size: 15px;
+    text-align: center; 
+}
+.am{
+    border: 2px solid gray;
+    color: rgb(166, 150, 150);
+    font-weight: 600;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 247);
+    text-align: center;
+    padding: 5px 20px;
+    margin: 5px 5px 5px 5px;
+    float: left;
+  }
+  .am200{
+    border: 2px solid rgb(180, 58, 58);
+    color: rgb(188, 34, 34);
+    font-weight: 600;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(239, 182, 182);
+    text-align: center;
+    padding: 5px 20px;
+    margin: 5px 5px 5px 5px;
+    float: left;
+  }
+  .dt{
+    padding: 5px 350px;
+  }
+  .taka{
+    margin-bottom: -85px;
+    padding: 100px 10px;
+    color: rgb(44, 42, 42);
+    font-weight:400px ;
+    font-size: 10px;
+    text-align: center; 
+    text-decoration: overline;
+  }
+.bt-sec{
+    margin: -5px 585px;
+    padding: 5px;
+    background-color: rgb(239, 82, 113);
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 5px;
+    border: 0cm;
+}
+.odt-tit{
+    padding-top: 60px;
+    color: black;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center
+}
+.odt-dis{
+    padding: 20px 300px;
+    color: rgb(44, 42, 42);
+    font-weight:500px ;
+    font-size: 15px;
+    text-align: center; 
+}
+.fff{
+    padding-top: 30px;
+    color: black;
+    font-weight: 800;
+    font-size: 15px;
+    text-align: left;
+}
+.food{
+    border: 2px solid black;
+    background-color: rgb(217, 242, 242);
+    width: 250px;
+    height: 150px;
+    font-size: 13px;  
+    margin: 5px 15px;
+    float: left;
+    padding: 5px 10px;
+}
+.shelt{
+    border: 2px solid black;
+    background-color: rgb(242, 247, 210);
+    width: 250px;
+    height: 150px;
+    font-size: 13px;  
+    margin: 5px 15px;
+    float: left;
+    padding: 5px 10px;
+}
+.edu{
+    border: 2px solid black;
+    background-color: rgb(210, 216, 247);
+    width: 250px;
+    height: 150px;
+    font-size: 13px;  
+    margin: 5px 15px;
+    float: left;
+    padding: 5px 10px;
+}
+.fse{
+    padding: 5px 170px;
+}
+.life-tit{
+    padding: 280px 950px 5px 50px;
+    color: black;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: left;
+}
+.life-dis{
+    padding: 20px 10px 5px 50px;
+    color: rgb(44, 42, 42);
+    font-weight:500px ;
+    font-size: 15px;
+    position: absolute;
+    width: 150px;
+    text-align: left; 
+}
+.bt-third{
+    margin:40px 380px 5px 50px;
+    padding: 5px;
+    background-color: rgb(239, 82, 113);
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 5px;
+    border: 0cm;
+}
+img{
+   max-width: 350px;
+   float: right;
+   padding-right: 450px;
+
+}
+.sur-tit{
+    padding: 90px 40px 5px 250px;
+    color: black;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+}
+.sur-dis{
+    padding: 15px 45px 5px 650px;
+    color: rgb(44, 42, 42);
+    font-weight:500px ;
+    font-size: 15px;
+    position: absolute;
+    width: 150px;
+    text-align: center; 
+}
+#sur{
+    max-width: 350px;
+    float:left;
+   padding-left: 100px;
+ 
+ }
+ .bt-frth{
+    margin:220px 100px 5px -240px;
+    padding: 5px;
+    background-color: rgb(239, 82, 113);
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 5px;
+    border: 0cm;  
+ }
+ .updt-tit{
+    padding: 90px 40px 5px 250px;
+    color: black;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+}
+.updt-dis{
+    padding: 20px 300px 5px 450px;
+    color: rgb(44, 42, 42);
+    font-weight:500px ;
+    font-size: 15px;
+    text-align: center;
+} 
+.email{
+   margin:10px 0px 5px 550px;
+    border: 20px solid rgb(217, 237, 144);
+}
+.bt-fifth{
+    border: 20px solid rgb(193, 67, 67);
+}.f-title{
+    padding: 50px 40px 5px 250px;
+    color: rgb(181, 22, 22);
+    background-color: black;
+    text-align: center;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+}
